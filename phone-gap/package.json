@@ -1,0 +1,10 @@
+{
+  "name": "iDay",
+  "description": "not now!",
+  "version": "0.0.1",
+  "private": true,
+  "homepage": "",
+  "dependencies": {
+    "grunt": "0.4.x"
+  }
+}
