@@ -3,7 +3,9 @@
   "devDependencies": {
     "angular": ">=1.1.4",
     "angular-ui": "latest",
-    "angular-jqm": "https://github.com/dluxemburg/angular-jqm.git#master",
-    "jquery-mobile-bower": "latest"
+    "angular-jqm": "https://github.com/TopCS/angular-jqm.git#angular-1.2",
+    "jquery-mobile-bower": "latest",
+    "ng-mobile": "~0.3.3",
+    "angular-animate": "~1.2.0-rc.3"
   }
 }

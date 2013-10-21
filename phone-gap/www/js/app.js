@@ -1,2 +1,2 @@
-var mod = angular.module('app', []);
+var mod = angular.module('app', ['ngAnimate', 'jqm']);
 

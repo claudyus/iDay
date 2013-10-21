@@ -6,5 +6,9 @@
   "homepage": "",
   "dependencies": {
     "grunt": "0.4.x"
+  },
+  "devDependencies": {
+    "grunt-conventional-changelog": "~1.0.0",
+    "grunt-contrib-connect": "~0.5.0"
   }
 }
