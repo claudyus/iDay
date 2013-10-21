@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "grunt-conventional-changelog": "~1.0.0",
-    "grunt-contrib-connect": "~0.5.0"
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-cordovacli": "~0.1.7"
   }
 }
