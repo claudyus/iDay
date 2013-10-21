@@ -3,6 +3,6 @@
   "devDependencies": {
     "angular": "latest",
     "angular-ui": "latest",
-    "angular-jqm": "https://github.com/angular-widgets/angular-jqm.git#master"
+    "angular-jqm": "https://github.com/dluxemburg/angular-jqm.git#master"
   }
 }
