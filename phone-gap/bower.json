@@ -3,6 +3,7 @@
   "devDependencies": {
     "angular": ">=1.1.4",
     "angular-ui": "latest",
-    "angular-jqm": "https://github.com/dluxemburg/angular-jqm.git#master"
+    "angular-jqm": "https://github.com/dluxemburg/angular-jqm.git#master",
+    "jquery-mobile-bower": "latest"
   }
 }
