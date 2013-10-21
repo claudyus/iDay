@@ -1,2 +1,2 @@
-var mod = angular.module('app', ['ngAnimate', 'jqm']);
+var mod = angular.module('app', ['ngRoute', 'ngAnimate', 'ngTouch', 'jqm']);
 
