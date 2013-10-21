@@ -1,7 +1,7 @@
 {
   "name": "iDay",
   "devDependencies": {
-    "angular": "latest",
+    "angular": ">=1.1.4",
     "angular-ui": "latest",
     "angular-jqm": "https://github.com/dluxemburg/angular-jqm.git#master"
   }
